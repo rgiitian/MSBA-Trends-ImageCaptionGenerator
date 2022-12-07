@@ -1,1 +1,1 @@
-# MSBA-Trends-ImageCaptionGenerator
+# MSBA-Trends-ImageCaptionGenerator-Team2
