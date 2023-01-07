@@ -1,5 +1,5 @@
-# TrendsmarketplaceTeam2
-MSBA 6331 Trends Marketplace Team2 Repository
+# BigData Trend
+MSBA 6331 Trends Marketplace Repository
 # README - Executive Summary
 
 ## Team 2 - MSBA Big Data
